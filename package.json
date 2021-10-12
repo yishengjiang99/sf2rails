@@ -1,0 +1,20 @@
+{
+  "name": "sf2rails",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yishengjiang99/sf2rails.git"
+  },
+  "keywords": [],
+  "author": "Yisheng Jiang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yishengjiang99/sf2rails/issues"
+  },
+  "homepage": "https://github.com/yishengjiang99/sf2rails#readme"
+}
